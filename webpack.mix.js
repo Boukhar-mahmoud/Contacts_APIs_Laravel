@@ -18,4 +18,5 @@ mix.js('resources/js/app.js', 'public/js')
 
 console.log('test')
 console.log('master')
-console.log('mahmod');
+console.log('mahmod')
+console.log('mahmod1345')
